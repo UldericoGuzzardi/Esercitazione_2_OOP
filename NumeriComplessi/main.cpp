@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// file di prova per testare tutte le funzioni e i metodi definiti in complex.hpp
 
 int main(void) 
 {
